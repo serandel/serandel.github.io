@@ -1,0 +1,7 @@
+    <nav class="sidebar-footer">
+      {% if site.email %}<a href="mailto:{{site.email}}"><img src="{{site.baseurl}}images/email.svg" alt="Email"/></a>{% endif %}
+    {% if site.linkedin %}<a href="{{site.linkedin}}"><img src="{{site.baseurl}}images/linkedin.svg" alt="LinkedIn"/></a>{% endif %}
+    {% if site.github %}<a href="{{site.github}}"><img src="{{site.baseurl}}images/github.svg" alt="Github"/></a>{% endif %}
+      {% if site.twitter %}<a href="{{site.twitter}}"><img src="{{site.baseurl}}images/twitter.svg" alt="Twitter"/></a>{% endif %}
+      <a href="{{site.url}}/atom.xml"><img src="{{site.baseurl}}images/rss.svg" alt="RSS"/></a>
+    </nav>
