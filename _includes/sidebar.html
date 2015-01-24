@@ -27,13 +27,7 @@
       {% endfor %}
     </nav>
 
-    <nav class="sidebar-footer">
-      <a href="mailto:serandel@gmail.com"><img src="{{site.baseurl}}images/email.svg" alt="Email"/></a>
-    <a href="http://es.linkedin.com/pub/sergio-antonio-delgado-quero/15/914/52a/"><img src="{{site.baseurl}}images/linkedin.svg" alt="LinkedIn"/></a>
-    <a href="https://github.com/serandel"><img src="{{site.baseurl}}images/github.svg" alt="Github"/></a>
-      <a href="http://twitter.com/serandel"><img src="{{site.baseurl}}images/twitter.svg" alt="Twitter"/></a>
-      <a href="{{site.url}}/atom.xml"><img src="{{site.baseurl}}images/rss.svg" alt="RSS"/></a>
-    </nav>
+    {% include sidebar-footer.html %}
     
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
