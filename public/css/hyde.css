@@ -278,6 +278,7 @@ a.sidebar-nav-item:focus {
  */
 .avatar {
   display: inline-block;
+  border: 5px solid white;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
