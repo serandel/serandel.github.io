@@ -21,6 +21,6 @@ How have I managed to make this blog?
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * Edited with [Prose](http://prose.io), so I don't even need to go away from the browser for that 
 * *Roboto* and *Roboto Slab* fonts from [Google Fonts](https://www.google.com/fonts), like half the web
-* Used these awesome [SVG Social Icons]
+* Used these awesome [SVG Social Icons](https://github.com/neilorangepeel/Free-Social-Icons)
 
 Thanks for reading!
