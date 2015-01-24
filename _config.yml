@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Serandel
+tagline:          'Manager by day, Android coder by night'
+description:      'Random ramblings, disgressions and the ocassional code snippet found while working with Android. Or playing with it. Whatever.'
+url:              http://serandel.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Sergio Delgado'
+  url:            http://es.linkedin.com/pub/sergio-antonio-delgado-quero/15/914/52a/
 
 paginate:         5
 
