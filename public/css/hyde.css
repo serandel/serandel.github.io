@@ -23,6 +23,7 @@
  * Reverse layout
  * Themes
  * Sidebar footer
+ * Sidebar avatar
  */
 
 
@@ -268,4 +269,18 @@ a.sidebar-nav-item:focus {
   width: 40px;
   height: 40px;
   display: inline-block
+}
+
+/*
+ * Avatar
+ *
+ * By serandel, an avatar above the title.
+ */
+.avatar {
+  display: inline-block;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
 }
