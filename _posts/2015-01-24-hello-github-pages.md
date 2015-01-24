@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Hello Github Pages
 ---
 
 My new blog seems to be working!
