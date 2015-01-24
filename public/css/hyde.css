@@ -22,6 +22,7 @@
  * Container
  * Reverse layout
  * Themes
+ * Sidebar footer
  */
 
 
@@ -256,4 +257,15 @@ a.sidebar-nav-item:focus {
 .theme-base-android .content a,
 .theme-base-android .related-posts li a:hover {
   color: #A4C639;
+}
+
+/*
+ * Sidebar foooter
+ *
+ * By serandel, a footer with social icons
+ */
+.sidebar-footer img {
+  width: 40px;
+  height: 40px;
+  display: inline-block
 }
