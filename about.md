@@ -1,30 +1,26 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  {{site.tagline}}
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+R+D team leader at [Linea Directa](http://www.lineadirecta.com). While making our mobile apps, I've fallen in love with Android openness, so now I develop personal projects, and the ocassional contractor work, in my free time.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+This blog is my way of giving back to the community a tiny fraction of all the help I've received.
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+How have I managed to make this blog? 
 
-* Built for [Jekyll](http://jekyllrb.com)
+* Inspired and guided by [an article from Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/). Great site!
+* Generated as a static site with [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* Edited with [Prose](http://prose.io), so I don't even need to go away from the browser for that 
+* *Roboto* and *Roboto Slab* fonts from [Google Fonts](https://www.google.com/fonts), like half the web
+* Used these awesome [SVG Social Icons]
 
 Thanks for reading!
