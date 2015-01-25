@@ -13,7 +13,7 @@ published: true
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}#disqus_thread">Comments</a>
+    <span class="post-date">{{ post.date | date_to_string }} - <a href="{{ post.url | remove: '/' }}#disqus_thread">Comments</a></span>
 
     {{ post.excerpt }}
     
