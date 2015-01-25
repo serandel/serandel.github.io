@@ -1,8 +1,10 @@
 <script type="text/javascript">
 (function () {
+  window.alert('disqus count');
 var s = document.createElement('script'); s.async = true;
 s.type = 'text/javascript';
 s.src = '//{{ site.disqus }}.disqus.com/count.js';
 (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  window.alert('disqus count 2');
 }());
 </script>
