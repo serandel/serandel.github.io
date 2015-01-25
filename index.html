@@ -8,12 +8,12 @@ published: true
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}#disqus_thread">
+      <a href="{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}#disqus_thread">Comments</a>
 
     {{ post.excerpt }}
     
