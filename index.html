@@ -38,3 +38,7 @@ published: true
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+{% if site.disqus %}
+	{% include disqus_home.html %}
+{% endif %}
