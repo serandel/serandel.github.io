@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Serandel
 tagline:          'Manager by day, Android coder by night'
-description:      'Random ramblings, disgressions and the occasional code snippet found while working with Android. Or playing with it. Whatever.'
+description:      'Random ramblings, disgressions and the occasional Android code'
 url:              http://serandel.github.io
 baseurl:          /
 
